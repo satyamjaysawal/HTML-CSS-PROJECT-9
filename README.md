@@ -16,7 +16,7 @@ This one is a Company Website Landing Page which is created using HTML & CSS. Th
 
 A HTML, CSS Project. Made with ♥ by Satyam Jaysawal. There will be a website landing page. In this project we gonna learn how we can create a website using  HTML, CSS. The main purpose of the project is to get more used to with HTML, CSS. Later on, in this project, we gonna learn how we can deploy this site using Netlify. Also, we gonna learn the process from the zero to end and make the website ready for live production.
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)()
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
 ## 🛠Skills Gained
 
